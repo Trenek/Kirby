@@ -1,0 +1,21 @@
+//Skrypt zasobów wygenerowany przez program Microsoft Visual C++.
+//
+#include "Zasoby.h"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Ikona
+//
+
+// Ikona z najniższą wartością identyfikatora jest umieszczana jako pierwsza, aby zapewnić, że ikona aplikacji
+// pozostają spójne we wszystkich systemach.
+
+IDI_ICON                ICON            "TestoweOkienka.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmapy
+//
+
+IDB_KIRBY1 BITMAP "KirbySLeft.bmp"
+IDB_KIRBY2 BITMAP "KirbySRight.bmp"
